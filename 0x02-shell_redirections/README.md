@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, World"
+echo 'Shell I/O redirections'> README.md
